@@ -6,7 +6,7 @@ Primer sitio web desarrollado con HTML para el bootcamp de technolochicas PRO, e
 
 ### Link del proyecto
 
-[Proyecto desplegado]()
+[Proyecto desplegado](https://zesty-melomakarona-563492.netlify.app/)
 
 ### Capturas del proyecto
 
