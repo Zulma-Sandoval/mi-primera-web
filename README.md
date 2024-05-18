@@ -10,9 +10,9 @@ Primer sitio web desarrollado con HTML para el bootcamp de technolochicas PRO, e
 
 ### Capturas del proyecto
 
-![Captura Links conejo](assets/1perrito.png)
-![Captura Links pinguino](assets/2gatito.png)
-![Captura Links perrito](assets/3pollito.png)
+![Captura Links conejo](assets/perrito.jpeg)
+![Captura Links pinguino](assets/pinguino.jpeg)
+![Captura Links perrito](assets/conejo.jpeg)
 
 ## Tecnología utilizada
 
